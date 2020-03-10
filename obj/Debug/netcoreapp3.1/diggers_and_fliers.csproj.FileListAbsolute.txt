@@ -1,0 +1,10 @@
+/Users/MacGIbbons1/workspace/csharp/exercises/diggers_and_fliers/bin/Debug/netcoreapp3.1/diggers_and_fliers.deps.json
+/Users/MacGIbbons1/workspace/csharp/exercises/diggers_and_fliers/bin/Debug/netcoreapp3.1/diggers_and_fliers.runtimeconfig.json
+/Users/MacGIbbons1/workspace/csharp/exercises/diggers_and_fliers/bin/Debug/netcoreapp3.1/diggers_and_fliers.runtimeconfig.dev.json
+/Users/MacGIbbons1/workspace/csharp/exercises/diggers_and_fliers/bin/Debug/netcoreapp3.1/diggers_and_fliers.dll
+/Users/MacGIbbons1/workspace/csharp/exercises/diggers_and_fliers/bin/Debug/netcoreapp3.1/diggers_and_fliers.pdb
+/Users/MacGIbbons1/workspace/csharp/exercises/diggers_and_fliers/obj/Debug/netcoreapp3.1/diggers_and_fliers.csprojAssemblyReference.cache
+/Users/MacGIbbons1/workspace/csharp/exercises/diggers_and_fliers/obj/Debug/netcoreapp3.1/diggers_and_fliers.AssemblyInfoInputs.cache
+/Users/MacGIbbons1/workspace/csharp/exercises/diggers_and_fliers/obj/Debug/netcoreapp3.1/diggers_and_fliers.AssemblyInfo.cs
+/Users/MacGIbbons1/workspace/csharp/exercises/diggers_and_fliers/obj/Debug/netcoreapp3.1/diggers_and_fliers.dll
+/Users/MacGIbbons1/workspace/csharp/exercises/diggers_and_fliers/obj/Debug/netcoreapp3.1/diggers_and_fliers.pdb
